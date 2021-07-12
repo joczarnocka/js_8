@@ -1,2 +1,2 @@
-objectParagraph = document.querySelector('p')
-objectParagraph.textContent = "To jest paragraf"
+let objectParagraph = document.querySelector('p');
+objectParagraph.textContent = "To jest paragraf";
